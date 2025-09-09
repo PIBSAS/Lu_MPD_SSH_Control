@@ -44,3 +44,10 @@ Finally Sign your executable:
 ```
 
 Your `.exe` will be in `dist` folder. Enjoy!
+
+# Screenshots-Capturas:
+### Interfaz:
+![](ScreenShot_1.png)
+
+### Sys Tray Icon:
+![](ScreenShot_2.png)
